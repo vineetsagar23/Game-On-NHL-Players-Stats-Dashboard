@@ -22,3 +22,7 @@ The neomorphic design gives the dashboard a modern look and feel, providing user
 
 
 So what are you waiting for? Check out the NHL Player Statistics Dashboard now and let me know what you think!
+
+
+https://user-images.githubusercontent.com/71757915/226125887-75dcd053-ab86-4945-aff4-092e6b8169b2.mp4
+
