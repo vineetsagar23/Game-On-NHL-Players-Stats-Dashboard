@@ -10,6 +10,7 @@ The dashboard features intuitive charts like Cards, Slicer, Line chart, and Imag
 
 https://user-images.githubusercontent.com/71757915/226125887-75dcd053-ab86-4945-aff4-092e6b8169b2.mp4
 
+
 The neomorphic design gives the dashboard a modern look and feel, providing users with a mobile application-like experience. Whether you're a seasoned professional or a newcomer like me, this project will provide you with valuable insights and allow you to truly appreciate the game of ice hockey.
 
 <img align="center" src="Image/Screenshot.jpg" height=300>
