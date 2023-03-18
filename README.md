@@ -8,6 +8,8 @@ Are you a die-hard fan of ice hockey or just getting started with the sport? Eit
 With just one click, you can review the major statistics of any professional NHL player, thanks to the power of Power BI and Python-based web scraping code. This project has been a labor of love for me, and I'm excited to share it with the world.
 
 The dashboard features intuitive charts like Cards, Slicer, Line chart, and Image charts that allow you to analyze goals, assists, games played, and more. Plus, I've scraped image links of over 2400 players and included flags of the country to which they belong, giving you a truly immersive experience.
+https://youtu.be/VrDzo2JL10E
+<iframe width="560" height="315" src="https://youtu.be/VrDzo2JL10E" frameborder="0" allowfullscreen></iframe>
 
 The neomorphic design gives the dashboard a modern look and feel, providing users with a mobile application-like experience. Whether you're a seasoned professional or a newcomer like me, this project will provide you with valuable insights and allow you to truly appreciate the game of ice hockey.
 
