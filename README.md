@@ -1,6 +1,6 @@
 # Game-On-NHL-Players-Stats-Dashboard
 
-<img align="center" src="Image/Logo3.png" height=300>
+<img align="center" src="Image/Logo.png" height=300>
 
 
 Are you a die-hard fan of ice hockey or just getting started with the sport? Either way, the NHL Player Statistics Dashboard is the perfect tool for exploring the world of ice hockey statistics in a whole new way.
@@ -11,7 +11,7 @@ The dashboard features intuitive charts like Cards, Slicer, Line chart, and Imag
 
 The neomorphic design gives the dashboard a modern look and feel, providing users with a mobile application-like experience. Whether you're a seasoned professional or a newcomer like me, this project will provide you with valuable insights and allow you to truly appreciate the game of ice hockey.
 
-<img align="center" src="Image/Logo4.jpeg" height=300>
+<img align="center" src="Image/Screenshot.jpeg" height=300>
 
 
 So what are you waiting for? Check out the NHL Player Statistics Dashboard now and let me know what you think!
